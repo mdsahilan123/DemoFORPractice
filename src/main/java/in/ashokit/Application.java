@@ -9,7 +9,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
-		System.out.println("sahil")
+		System.out.println("sahil we are not working in same line bro....its dangerous")
 	}
 
 }
